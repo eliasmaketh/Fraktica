@@ -1,0 +1,55 @@
+FONTLOG for the Fraktica fonts
+
+This file provides detailed information on the Fraktica Font Software.
+This information should be distributed along with the Fraktica fonts
+and any derivative works.
+
+Basic Font Information
+
+Fraktica is a Unicode typeface family that supports all languages that
+use the Latin script and its variants, and could be expanded to support other
+scripts.
+
+Fraktica Version 0.9 is based on the Fraktica and also supports Greek,
+Hebrew, Cyrillic and Armenian.
+
+More specifically, this release supports the following Unicode ranges...
+This release contains...
+Documentation can be found at...
+To contribute to the project...
+
+ChangeLog
+
+21 January 2025 (Elias) Fraktica Version 0.9
+- Learned what half of whatever GitHub means
+- Understood the difference between Googling tutorials and begging coder-friends for help
+- Updated README.md with full assignment context
+- Included OFL License and OFL-FAQ.txt
+- Created "docs" folder
+- Included FONTLOG.txt
+- Released as "Fraktica Version 0.9"
+
+14 January 2025 (Elias) Fraktica Version 0.9
+- Created GitHub Repo
+
+19 November 2023 (Elias) Fraktica Version 0.1
+- Initial file creation
+
+Acknowledgements
+If you make modifications be sure to add your details as below: 
+N: Name
+E: Email Address 
+W: Web-address
+D: Description
+A: Affiliation
+
+N: Elias Maketh, AKA Harikrishna Manoj
+E: md21b24p100001@iith.ac.in
+W: https://www.instagram.com/eliasmaketh
+D: Creator, Designer and Ideator - original font base
+A: Direct PhD student at IIT Hyderabad in Design; created Fraktica as part of 
+BDes 3rd year (5th Sem) credits for the course DS3153 Type Design
+
+eliasmaketh is the alias for Elias (Harikrishna Manoj) a Direct PhD student at IIT Hyderabad in the Department of Design.
+IIT Hyderabad (iith.ac.in) is a renowned educational institution with a strong Department of Design, providing 
+prominent opportunities for budding professionals.
