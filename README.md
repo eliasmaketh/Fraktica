@@ -1,2 +1,6 @@
-# Fraktica
-Fraktica is an on-going assignment piece done during the "Type Design" course, under Prof. Uday Kumar and Prof. Shahid, while pursuing my BDes at IIT Hyderabad. With the initial prompt provided by the TypeCooker Dice set from Mota Italic of Extra-Condensed, Extra-Light, Bracketed-Serifs and in Old-Style.
+# Fraktica Display
+Fraktica is an on-going assignment piece done during the "Type Design" course, under Prof. D. Udaya Kumar (IIT Guwahati), Prof. Mohammad Shahid (IIT Hyderabad) and PAP Charkadhar Alla, while pursuing my 3rd year of BDes at IIT Hyderabad. We started working on this font on 13th November 2023 and have been making regular updates since, although I only recently started considering the option of publicly publishing it through Google fonts as of December 2024.
+
+Fraktica (Fraktur · Aesthetica) was created through the initial prompt provided by the TypeCooker Dice set from Mota Italic of Extra-Condensed, Extra-Light, Bracketed-Serifs and in Old-Style during our introductory course to DS3153 Type Design. Inspired by the Old Style Calligraphy and in later explorations the Blackletter style of the historical Fraktur script of Germany, Fraktica takes into appreciation the history of calligraphic writing and architectural flourishes of Gothic Architecture of the time period, specifically Cathedral Cologne (Kölner Dom).
+
+The font contains Basic Latin characters, with more accents and glyphs being updated to the collection of this font as and when feedback is received. Ligatures are also being introduced for quality of reading and visual aesthetic, as well as other visual clarifications.
